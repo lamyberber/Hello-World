@@ -1,3 +1,5 @@
 # Hello-World
 This is my first repository 
-hello , i wanna be perfect on coding
+what is in there 
+hello ,
+jsut do it 
